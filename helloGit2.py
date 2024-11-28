@@ -1,3 +1,3 @@
 print "new Hello GitHub"
-print "he hecho cambios en GitHub v2"
+print "he hecho cambios en GitHub"
 
