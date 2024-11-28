@@ -1,2 +1,2 @@
-print "new Hello 2 v3"
+print "new Hello GitHub"
 
